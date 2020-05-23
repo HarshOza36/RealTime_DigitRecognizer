@@ -3,7 +3,11 @@ A real time digit recognizer using machine learning and OpenCV
 
 First we need to train the model in ```RealTimeDRTraining.ipynb```.
 
-The model is still provided to be used directly.
+We required the dataset for training which is ```Data.zip``` extract it in the same folder where you have all the files.
+
+And Train the model.
+
+But if you dont want to train and directly test,the model is still provided to be used directly.
 
 To test the model use ```RealTimeDigitRecognition.ipynb```
 
