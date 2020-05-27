@@ -1,7 +1,16 @@
 # RealTime_DigitRecognizer
 A real time digit recognizer using machine learning and OpenCV
 
-We will first create single digit rercognition in ```RealTimeDigitRecognition.ipynb``` and then multidigit recognition in ```RealTimeDigitRecognition.ipynb```
+We will first create single digit rercognition in ```RealTimeDigitRecognition.ipynb``` and then multidigit recognition in ```RealTimeMultiDigitRecognition.ipynb```
+
+# Final output in ```RealTimeMultiDigitRecognition.ipynb``` will be
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/42001739/82968228-71e1ab80-9fea-11ea-8c55-53d5cdcc97d8.gif">
+</p>
+
+
+
 
 First we need to train the model in ```RealTimeDRTraining.ipynb```.
 
@@ -28,4 +37,4 @@ Then we will add bounded boxes and ouput will be as shown below.
 ## Changes Required:
 ~~- Bounded Boxes accuracy needs to be increased~~
 
-## All changes updated and created MultiDigit Recognition
+## All changes updated and created MultiDigit Recognition ipynb file
