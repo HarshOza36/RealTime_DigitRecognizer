@@ -1,5 +1,11 @@
 # RealTime_DigitRecognizer
+
+![Project license](https://img.shields.io/apm/l/vim-mode?style=plastic)
+![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+
 A real time digit recognizer using machine learning and OpenCV
+
+
 
 We will first create single digit rercognition in ```RealTimeDigitRecognition.ipynb``` and then multidigit recognition in ```RealTimeMultiDigitRecognition.ipynb```
 
